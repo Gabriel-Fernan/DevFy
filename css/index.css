@@ -81,9 +81,3 @@ body{
     margin-right: 12px;
 }
 
-.linha-curva {
-    width: 300px;
-    height: 80px;
-    border-bottom: 8px solid #005eb8;
-    border-radius: 0 0 150px 150px;
-}
